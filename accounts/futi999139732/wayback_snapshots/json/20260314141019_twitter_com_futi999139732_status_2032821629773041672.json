@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2032821629773041672",
+    "created_at": "2026-03-14T14:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032821629773041672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/salviaswc/status/2032805444461248999",
+          "start": 8,
+          "url": "https://t.co/j9LzoA3EkB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032821629773041672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032805444461248999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李云齐值得死🐎 https://t.co/j9LzoA3EkB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2032777557892800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXgazWWIAABv-9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 400,
+        "media_key": "3_2032777557901549568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXgazYboAAbJ7e.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2032821629773041672",
+        "created_at": "2026-03-14T14:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032821629773041672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/salviaswc/status/2032805444461248999",
+              "start": 8,
+              "url": "https://t.co/j9LzoA3EkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032821629773041672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032805444461248999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李云齐值得死🐎 https://t.co/j9LzoA3EkB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032777557892800512",
+            "3_2032777557901549568"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2032805444461248999",
+        "created_at": "2026-03-14T13:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032805444461248999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUkhFQvow2",
+              "end": 112,
+              "expanded_url": "https://x.com/SalviaSWC/status/2032805444461248999/photo/1",
+              "media_key": "3_2032777557892800512",
+              "start": 89,
+              "url": "https://t.co/KUkhFQvow2"
+            },
+            {
+              "display_url": "pic.x.com/KUkhFQvow2",
+              "end": 112,
+              "expanded_url": "https://x.com/SalviaSWC/status/2032805444461248999/photo/1",
+              "media_key": "3_2032777557901549568",
+              "start": 89,
+              "url": "https://t.co/KUkhFQvow2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032805444461248999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 884,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中推OD圈传来噩耗，OD问题治理专家、新型毒品检测商、药物滥用产品销售经理——大善人李云齐的推特账号已被马斯克制裁，从此销声匿迹🍾🍾🍾。\n\n领导OD区重任谁堪？😁#中推模拟选举 https://t.co/KUkhFQvow2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2028136265158427111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 643,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3259,
+          "following_count": 961,
+          "like_count": 21022,
+          "listed_count": 10,
+          "media_count": 359,
+          "tweet_count": 6164
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

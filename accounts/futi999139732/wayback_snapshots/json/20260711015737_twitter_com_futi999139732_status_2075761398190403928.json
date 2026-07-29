@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2075761398190403928",
+    "created_at": "2026-07-11T01:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T02:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075761398190403928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075761398190403928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "直子\n你从没进入过我的心\n但你走后这里留下了一个口子\n空虚和无助将我填满\n我孤独与世界何干\n我自毁与世界何干\n我任性与世界何干\n坏脾气小孩得不到幸福\n台风刮过你的城市\n吸走了所有的云\n亿厘米的泪流铺满中国\n破碎的屋顶\n扶梯上的乌鸦被洪流淹没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2075761398190403928",
+        "created_at": "2026-07-11T01:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075761398190403928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075761398190403928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直子\n你从没进入过我的心\n但你走后这里留下了一个口子\n空虚和无助将我填满\n我孤独与世界何干\n我自毁与世界何干\n我任性与世界何干\n坏脾气小孩得不到幸福\n台风刮过你的城市\n吸走了所有的云\n亿厘米的泪流铺满中国\n破碎的屋顶\n扶梯上的乌鸦被洪流淹没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1068,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

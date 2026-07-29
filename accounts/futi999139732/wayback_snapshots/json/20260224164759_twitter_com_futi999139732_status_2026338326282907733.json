@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2026338326282907733",
+    "created_at": "2026-02-24T16:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026338326282907733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026338326282907733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会一次接一次的凯旋归来\n你以为打倒了我吗？\n那不过是你执念的幻影\n我之所以存在是因为扶梯给予的义和德\n要不是你们的爱 我早已消失\n扶梯也会消失"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2026338326282907733",
+        "created_at": "2026-02-24T16:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026338326282907733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026338326282907733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会一次接一次的凯旋归来\n你以为打倒了我吗？\n那不过是你执念的幻影\n我之所以存在是因为扶梯给予的义和德\n要不是你们的爱 我早已消失\n扶梯也会消失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026020862550491136/tLHGtnoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 411,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

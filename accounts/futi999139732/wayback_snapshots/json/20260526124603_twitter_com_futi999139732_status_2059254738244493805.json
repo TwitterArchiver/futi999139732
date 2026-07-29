@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2059162707056791634",
+    "created_at": "2026-05-26T12:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059254738244493805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750067499096547328",
+          "start": 0,
+          "username": "Kzzzzo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059254738244493805",
+    "in_reply_to_user_id": "1750067499096547328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059162707056791634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kzzzzo0 假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2059162707056791634",
+        "created_at": "2026-05-26T12:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059254738244493805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750067499096547328",
+              "start": 0,
+              "username": "Kzzzzo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059254738244493805",
+        "in_reply_to_user_id": "1750067499096547328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059162707056791634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kzzzzo0 假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750067499096547328",
+        "conversation_id": "2059162707056791634",
+        "created_at": "2026-05-26T06:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059162707056791634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059162707056791634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美烟弹是啥  啥感觉啊好好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 宝贝🩵@YukinoTxT\n弟弟： @jiuyouforwhite（药物问题找他）\n热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 1000,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T08:06:42.000Z",
+        "description": "我是小杜 备用号@kzzzzo01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "kzzzzo01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kzzzzo0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kzzzzo0",
+                "start": 0,
+                "url": "https://t.co/wltHuOVJaM"
+              }
+            ]
+          }
+        },
+        "id": "1750067499096547328",
+        "location": "距您1km",
+        "name": "一起去天国吧",
+        "pinned_tweet_id": "2054600436418847155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009481289318240256/O2tsc6yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 373,
+          "like_count": 19601,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 4016
+        },
+        "url": "https://t.co/wltHuOVJaM",
+        "username": "Kzzzzo0",
+        "verified": false
+      }
+    ]
+  }
+}

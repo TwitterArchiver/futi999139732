@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2037526746988413022",
+    "created_at": "2026-03-27T13:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037529130401743170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934458092475080704",
+          "start": 0,
+          "username": "yo2787425235659"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037529130401743170",
+    "in_reply_to_user_id": "1934458092475080704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037526746988413022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yo2787425235659 恭喜宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2037526746988413022",
+        "created_at": "2026-03-27T13:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037529130401743170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934458092475080704",
+              "start": 0,
+              "username": "yo2787425235659"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037529130401743170",
+        "in_reply_to_user_id": "1934458092475080704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037526746988413022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yo2787425235659 恭喜宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934458092475080704",
+        "conversation_id": "2037526746988413022",
+        "created_at": "2026-03-27T13:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037526746988413022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/futi999139732/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/futi999139732/status/2037231478183256501",
+              "start": 20,
+              "url": "https://t.co/fCDB7PNobK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037526746988413022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037231478183256501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我遇见心软的神了以后我就是扶梯的狗 https://t.co/fCDB7PNobK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 847,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T03:49:53.000Z",
+        "description": "王洪文你个骚货\nGrok重度依赖😔\n互fo^_^",
+        "id": "1934458092475080704",
+        "name": "知名不具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988253969832177670/hYzpIQlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 141,
+          "like_count": 2036,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 266
+        },
+        "username": "yo2787425235659",
+        "verified": false
+      }
+    ]
+  }
+}

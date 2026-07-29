@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2040344848537186762",
+    "created_at": "2026-04-04T11:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040388903522206015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938268740501872641",
+          "start": 0,
+          "username": "jelily_worm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040388903522206015",
+    "in_reply_to_user_id": "1938268740501872641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040388774312701957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelily_worm 确实不推荐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2040344848537186762",
+        "created_at": "2026-04-04T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040388903522206015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938268740501872641",
+              "start": 0,
+              "username": "jelily_worm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040388903522206015",
+        "in_reply_to_user_id": "1938268740501872641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040388774312701957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelily_worm 确实不推荐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938268740501872641",
+        "conversation_id": "2040344848537186762",
+        "created_at": "2026-04-04T11:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040388774312701957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040388774312701957",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040388642443587870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 我靠那我不买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 906,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T16:11:05.000Z",
+        "description": "=jely /菌 English/中文 They/He Cupioromatic asexual genderfluid",
+        "id": "1938268740501872641",
+        "location": "27club",
+        "name": "Profundo carmesí",
+        "pinned_tweet_id": "2022282829221310647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032515716726067200/iPwyaz61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 131,
+          "like_count": 4145,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2249
+        },
+        "username": "jelily_worm",
+        "verified": false
+      }
+    ]
+  }
+}

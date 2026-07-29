@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2034328408176664906",
+    "created_at": "2026-03-18T18:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034329184466833803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441272389522771968",
+          "start": 0,
+          "username": "dont_stareatme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034329184466833803",
+    "in_reply_to_user_id": "1441272389522771968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034328541379330223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dont_stareatme 一星期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2034328408176664906",
+        "created_at": "2026-03-18T18:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034329184466833803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441272389522771968",
+              "start": 0,
+              "username": "dont_stareatme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034329184466833803",
+        "in_reply_to_user_id": "1441272389522771968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034328541379330223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dont_stareatme 一星期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441272389522771968",
+        "conversation_id": "2034328408176664906",
+        "created_at": "2026-03-18T17:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034328541379330223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034328541379330223",
+        "in_reply_to_user_id": "1441272389522771968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034328408176664906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就嗑完4homet多久能嗑右美🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2028136265158427111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 664,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T05:25:01.000Z",
+        "description": "祝我快快死",
+        "id": "1441272389522771968",
+        "location": "天国驻华大使馆",
+        "name": "无毛大鼠阿尔吉侬",
+        "pinned_tweet_id": "1546762650775760896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545779702572654593/U_64tZDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 237,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 595
+        },
+        "username": "dont_stareatme",
+        "verified": false
+      }
+    ]
+  }
+}

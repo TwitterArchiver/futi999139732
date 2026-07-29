@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019110604590690304"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2019110668100931594",
+    "created_at": "2026-02-04T18:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019110668100931594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ayp0UaazjL",
+          "end": 30,
+          "expanded_url": "https://x.com/futi999139732/status/2019110668100931594/video/1",
+          "media_key": "13_2019110604590690304",
+          "start": 7,
+          "url": "https://t.co/ayp0UaazjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019110668100931594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喜欢好喜欢 https://t.co/ayp0UaazjL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5833,
+        "height": 1280,
+        "media_key": "13_2019110604590690304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019110604590690304/img/otuzeDC48R1TI666.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019110604590690304/vid/avc1/320x568/2tS_-XUSumqPzAsl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019110604590690304/vid/avc1/480x852/5BIIN2SFQeHpDZ77.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019110604590690304/vid/avc1/720x1280/FLBtBvezJGf_7rB2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019110604590690304/pl/axEtEII3Npxz9Tv7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019110604590690304"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2019110668100931594",
+        "created_at": "2026-02-04T18:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019110668100931594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayp0UaazjL",
+              "end": 30,
+              "expanded_url": "https://x.com/futi999139732/status/2019110668100931594/video/1",
+              "media_key": "13_2019110604590690304",
+              "start": 7,
+              "url": "https://t.co/ayp0UaazjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019110668100931594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢好喜欢 https://t.co/ayp0UaazjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 爱是恒久忍耐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018654661323186261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 159,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

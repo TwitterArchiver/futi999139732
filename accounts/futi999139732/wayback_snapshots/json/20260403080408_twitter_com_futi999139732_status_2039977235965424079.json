@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039977223114121216",
+        "3_2039977223101595648",
+        "3_2039977223101571072"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039977235965424079",
+    "created_at": "2026-04-03T08:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039977235965424079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RrsAXUCs0",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2039977235965424079/photo/1",
+          "media_key": "3_2039977223114121216",
+          "start": 8,
+          "url": "https://t.co/5RrsAXUCs0"
+        },
+        {
+          "display_url": "pic.x.com/5RrsAXUCs0",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2039977235965424079/photo/1",
+          "media_key": "3_2039977223101595648",
+          "start": 8,
+          "url": "https://t.co/5RrsAXUCs0"
+        },
+        {
+          "display_url": "pic.x.com/5RrsAXUCs0",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2039977235965424079/photo/1",
+          "media_key": "3_2039977223101571072",
+          "start": 8,
+          "url": "https://t.co/5RrsAXUCs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039977235965424079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "零成本造谣来了 https://t.co/5RrsAXUCs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039977223114121216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE90eeWa4AACzlS.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039977223101595648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE90eeTbwAAdMQN.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039977223101571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE90eeTbYAATKe6.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039977223114121216",
+            "3_2039977223101595648",
+            "3_2039977223101571072"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039977235965424079",
+        "created_at": "2026-04-03T08:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039977235965424079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RrsAXUCs0",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2039977235965424079/photo/1",
+              "media_key": "3_2039977223114121216",
+              "start": 8,
+              "url": "https://t.co/5RrsAXUCs0"
+            },
+            {
+              "display_url": "pic.x.com/5RrsAXUCs0",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2039977235965424079/photo/1",
+              "media_key": "3_2039977223101595648",
+              "start": 8,
+              "url": "https://t.co/5RrsAXUCs0"
+            },
+            {
+              "display_url": "pic.x.com/5RrsAXUCs0",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2039977235965424079/photo/1",
+              "media_key": "3_2039977223101571072",
+              "start": 8,
+              "url": "https://t.co/5RrsAXUCs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039977235965424079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "零成本造谣来了 https://t.co/5RrsAXUCs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 885,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": true
+      }
+    ]
+  }
+}

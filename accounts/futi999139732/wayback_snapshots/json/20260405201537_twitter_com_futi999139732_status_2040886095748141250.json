@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040886086994419712"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040886095748141250",
+    "created_at": "2026-04-05T20:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T21:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040886095748141250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29RsNXpGWV",
+          "end": 168,
+          "expanded_url": "https://x.com/futi999139732/status/2040886095748141250/photo/1",
+          "media_key": "3_2040886086994419712",
+          "start": 145,
+          "url": "https://t.co/29RsNXpGWV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040886095748141250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "扶梯即兴作品\n阴雨天\n衣服架吹在城里\n石头压碎了玻璃\n向阳花没遇到对的人\n本该面向太阳的你\n为什么认定我这个贝壳\n把你的朝阳般的笑容收回吧\n我缩进海里谁也不管\n\n随着涨潮我又飘向了岸边\n谁人都可以拿在手里把玩\n但我的珍珠只献给海的女儿\n没有海我将死去\n也许贝壳是个半坚信的唯物主义\n吹啊吹 海水不过是咕噜噜"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "扶梯即兴作品\n阴雨天\n衣服架吹在城里\n石头压碎了玻璃\n向阳花没遇到对的人\n本该面向太阳的你\n为什么认定我这个贝壳\n把你的朝阳般的笑容收回吧\n我缩进海里谁也不管\n\n随着涨潮我又飘向了岸边\n谁人都可以拿在手里把玩\n但我的珍珠只献给海的女儿\n没有海我将死去\n也许贝壳是个半坚信的唯物主义\n吹啊吹 https://t.co/29RsNXpGWV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2040886086994419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKvFUJW4AARMM5.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040886086994419712"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040886095748141250",
+        "created_at": "2026-04-05T20:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040886095748141250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29RsNXpGWV",
+              "end": 168,
+              "expanded_url": "https://x.com/futi999139732/status/2040886095748141250/photo/1",
+              "media_key": "3_2040886086994419712",
+              "start": 145,
+              "url": "https://t.co/29RsNXpGWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040886095748141250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "扶梯即兴作品\n阴雨天\n衣服架吹在城里\n石头压碎了玻璃\n向阳花没遇到对的人\n本该面向太阳的你\n为什么认定我这个贝壳\n把你的朝阳般的笑容收回吧\n我缩进海里谁也不管\n\n随着涨潮我又飘向了岸边\n谁人都可以拿在手里把玩\n但我的珍珠只献给海的女儿\n没有海我将死去\n也许贝壳是个半坚信的唯物主义\n吹啊吹 海水不过是咕噜噜"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扶梯即兴作品\n阴雨天\n衣服架吹在城里\n石头压碎了玻璃\n向阳花没遇到对的人\n本该面向太阳的你\n为什么认定我这个贝壳\n把你的朝阳般的笑容收回吧\n我缩进海里谁也不管\n\n随着涨潮我又飘向了岸边\n谁人都可以拿在手里把玩\n但我的珍珠只献给海的女儿\n没有海我将死去\n也许贝壳是个半坚信的唯物主义\n吹啊吹 https://t.co/29RsNXpGWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 917,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018716282292416565",
+    "created_at": "2026-02-03T16:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018716282292416565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/futi999139732/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/futi999139732/status/2018716209668096347",
+          "start": 5,
+          "url": "https://t.co/WWufMgVIOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018716282292416565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018716209668096347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求转ww https://t.co/WWufMgVIOl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018716202470961152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPrsMabcAANyVR.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018716282292416565",
+        "created_at": "2026-02-03T16:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018716282292416565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/futi999139732/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/futi999139732/status/2018716209668096347",
+              "start": 5,
+              "url": "https://t.co/WWufMgVIOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018716282292416565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018716209668096347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求转ww https://t.co/WWufMgVIOl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018716202470961152"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018716209668096347",
+        "created_at": "2026-02-03T16:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018716209668096347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ct27IEc29p",
+              "end": 23,
+              "expanded_url": "https://x.com/futi999139732/status/2018716209668096347/photo/1",
+              "media_key": "3_2018716202470961152",
+              "start": 0,
+              "url": "https://t.co/ct27IEc29p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018716209668096347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ct27IEc29p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 83,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

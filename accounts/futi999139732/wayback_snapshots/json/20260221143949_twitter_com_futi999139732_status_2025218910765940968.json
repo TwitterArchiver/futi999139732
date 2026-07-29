@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2024702725599219750",
+    "created_at": "2026-02-21T14:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025218910765940968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297323279095435264",
+          "start": 0,
+          "username": "fudujiya"
+        },
+        {
+          "end": 19,
+          "id": "1229088801525383168",
+          "start": 10,
+          "username": "sfhwert1"
+        },
+        {
+          "end": 36,
+          "id": "1957509667787325440",
+          "start": 20,
+          "username": "pleazdontleavme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025218910765940968",
+    "in_reply_to_user_id": "1297323279095435264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025218416744006067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fudujiya @sfhwert1 @pleazdontleavme 我哪有lsd啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-21T14:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025218910765940968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297323279095435264",
+              "start": 0,
+              "username": "fudujiya"
+            },
+            {
+              "end": 19,
+              "id": "1229088801525383168",
+              "start": 10,
+              "username": "sfhwert1"
+            },
+            {
+              "end": 36,
+              "id": "1957509667787325440",
+              "start": 20,
+              "username": "pleazdontleavme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025218910765940968",
+        "in_reply_to_user_id": "1297323279095435264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025218416744006067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fudujiya @sfhwert1 @pleazdontleavme 我哪有lsd啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297323279095435264",
+        "conversation_id": "2024702725599219750",
+        "created_at": "2026-02-21T14:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025218416744006067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1229088801525383168",
+              "start": 0,
+              "username": "sfhwert1"
+            },
+            {
+              "end": 26,
+              "id": "1957509667787325440",
+              "start": 10,
+              "username": "pleazdontleavme"
+            },
+            {
+              "end": 41,
+              "id": "2018652390891880448",
+              "start": 27,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025218416744006067",
+        "in_reply_to_user_id": "1229088801525383168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025204195369042206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfhwert1 @pleazdontleavme @futi999139732 这个老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 394,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 89
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T00:02:37.000Z",
+        "description": "该吃药了……",
+        "id": "1297323279095435264",
+        "location": "不会痛苦的地方……",
+        "name": "尼亚_naY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377875415834628/XQRbpLb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 316,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 317
+        },
+        "username": "fudujiya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-16T17:03:08.000Z",
+        "description": ".",
+        "id": "1229088801525383168",
+        "name": "kai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456204103038631940/02ZA6iuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 922,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "sfhwert1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08女/bi/lgbt全友好/同类互fo/我叫下水道/可以扩列/自残穿孔od/cptsd/bpd/dpd/极度依赖/无药可救",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXiEy"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "骯髒下水道里的卑劣嘔吐物",
+        "pinned_tweet_id": "2024317059778453846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023757108576219139/uzRSkV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 498,
+          "like_count": 2903,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/JcxwpFXiEy",
+        "username": "pleazdontleavme",
+        "verified": false
+      }
+    ]
+  }
+}

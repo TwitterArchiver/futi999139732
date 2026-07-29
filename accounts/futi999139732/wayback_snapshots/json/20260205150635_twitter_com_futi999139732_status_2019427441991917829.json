@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2019371243074633858",
+    "created_at": "2026-02-05T15:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019427441991917829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016174785114554368",
+          "start": 0,
+          "username": "acacia98430"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019427441991917829",
+    "in_reply_to_user_id": "2016174785114554368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019386754265178609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia98430 嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2019371243074633858",
+        "created_at": "2026-02-05T15:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019427441991917829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016174785114554368",
+              "start": 0,
+              "username": "acacia98430"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019427441991917829",
+        "in_reply_to_user_id": "2016174785114554368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019386754265178609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia98430 嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016174785114554368",
+        "conversation_id": "2019371243074633858",
+        "created_at": "2026-02-05T12:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019386754265178609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019386754265178609",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019371243074633858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 中圈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 爱是恒久忍耐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018712524510654737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 193,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:42:18.000Z",
+        "description": "恨比爱长久",
+        "id": "2016174785114554368",
+        "name": "Acacia🍥",
+        "pinned_tweet_id": "2018691456643346785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016194845396619264/_dLgdAN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 35,
+          "like_count": 2367,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 255
+        },
+        "username": "acacia98430",
+        "verified": false
+      }
+    ]
+  }
+}

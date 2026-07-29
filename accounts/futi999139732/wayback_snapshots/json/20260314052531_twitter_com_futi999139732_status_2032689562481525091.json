@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2032689562481525091",
+    "created_at": "2026-03-14T05:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032689562481525091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2032351091619479936",
+          "start": 10,
+          "url": "https://t.co/KNfAfmZAQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032689562481525091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032351091619479936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呀好勤奋的小帅哥 https://t.co/KNfAfmZAQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032351088524083200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDRcjBJbQAA_q4N.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2032689562481525091",
+        "created_at": "2026-03-14T05:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032689562481525091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2032351091619479936",
+              "start": 10,
+              "url": "https://t.co/KNfAfmZAQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032689562481525091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032351091619479936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀好勤奋的小帅哥 https://t.co/KNfAfmZAQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032351088524083200"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2032351091619479936",
+        "created_at": "2026-03-13T07:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032351091619479936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGib8RFwUw",
+              "end": 84,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2032351091619479936/photo/1",
+              "media_key": "3_2032351088524083200",
+              "start": 61,
+              "url": "https://t.co/pGib8RFwUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032351091619479936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 898,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想把我的账号做起来，马上250fo了所以我爆个照(刚拍的，希望大家喜欢\n等我300或者400fo就发全脸，以后还会搞抽奖 https://t.co/pGib8RFwUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2028136265158427111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 628,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/全部友好/回fo(周一到周五上学不在线)/哲学/od报告\n/粉红绕道/intp/重ocd·重抑·中重焦虑·aspd倾向/免费提供药物滥用帮助与心理咨询.私信评论匿问我答都会看哦\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2032335503295726044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031261581422768132/bD0hjNtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 366,
+          "like_count": 930,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

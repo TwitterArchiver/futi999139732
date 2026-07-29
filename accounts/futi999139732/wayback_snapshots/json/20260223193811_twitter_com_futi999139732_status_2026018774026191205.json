@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026018763775397888"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026018774026191205",
+    "created_at": "2026-02-23T19:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T20:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026018774026191205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYiywNGWgz",
+          "end": 28,
+          "expanded_url": "https://x.com/futi999139732/status/2026018774026191205/photo/1",
+          "media_key": "3_2026018763775397888",
+          "start": 5,
+          "url": "https://t.co/VYiywNGWgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026018774026191205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于普瑞 https://t.co/VYiywNGWgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026018763775397888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3dVNMb0AAgosl.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026018763775397888"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026018774026191205",
+        "created_at": "2026-02-23T19:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026018774026191205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYiywNGWgz",
+              "end": 28,
+              "expanded_url": "https://x.com/futi999139732/status/2026018774026191205/photo/1",
+              "media_key": "3_2026018763775397888",
+              "start": 5,
+              "url": "https://t.co/VYiywNGWgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026018774026191205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于普瑞 https://t.co/VYiywNGWgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 395,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 94
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

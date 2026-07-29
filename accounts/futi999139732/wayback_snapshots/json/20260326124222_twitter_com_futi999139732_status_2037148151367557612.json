@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037148141125066754"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2037148151367557612",
+    "created_at": "2026-03-26T12:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037148151367557612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jFXXOnqd7t",
+          "end": 30,
+          "expanded_url": "https://x.com/futi999139732/status/2037148151367557612/photo/1",
+          "media_key": "3_2037148141125066754",
+          "start": 7,
+          "url": "https://t.co/jFXXOnqd7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037148151367557612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重听大爱仙尊 https://t.co/jFXXOnqd7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037148141125066754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVncOqbYAILdbY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037148141125066754"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2037148151367557612",
+        "created_at": "2026-03-26T12:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037148151367557612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFXXOnqd7t",
+              "end": 30,
+              "expanded_url": "https://x.com/futi999139732/status/2037148151367557612/photo/1",
+              "media_key": "3_2037148141125066754",
+              "start": 7,
+              "url": "https://t.co/jFXXOnqd7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037148151367557612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重听大爱仙尊 https://t.co/jFXXOnqd7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 849,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

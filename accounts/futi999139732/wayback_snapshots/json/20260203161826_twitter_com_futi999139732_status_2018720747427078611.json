@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018720733141291008"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018720747427078611",
+    "created_at": "2026-02-03T16:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018720747427078611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7s9tgNzNsr",
+          "end": 32,
+          "expanded_url": "https://x.com/futi999139732/status/2018720747427078611/video/1",
+          "media_key": "13_2018720733141291008",
+          "start": 9,
+          "url": "https://t.co/7s9tgNzNsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018720747427078611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有好多巧克力） https://t.co/7s9tgNzNsr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1033,
+        "height": 1280,
+        "media_key": "13_2018720733141291008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018720733141291008/img/VxXhnWKe-z9C7_Jt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018720733141291008/vid/avc1/320x568/TU4EWJQTwzUKQuc1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018720733141291008/vid/avc1/480x852/DVQio_jBqRqSGdm3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018720733141291008/vid/avc1/720x1280/cjLG8CbRjC-AY5f1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018720733141291008/pl/G8OVVINGwLr5QqaB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018720733141291008"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018720747427078611",
+        "created_at": "2026-02-03T16:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018720747427078611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7s9tgNzNsr",
+              "end": 32,
+              "expanded_url": "https://x.com/futi999139732/status/2018720747427078611/video/1",
+              "media_key": "13_2018720733141291008",
+              "start": 9,
+              "url": "https://t.co/7s9tgNzNsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018720747427078611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有好多巧克力） https://t.co/7s9tgNzNsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 83,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2019320935946547377",
+    "created_at": "2026-02-05T09:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019335366428488147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903126320697184257",
+          "start": 0,
+          "username": "cyberpsychosisR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019335366428488147",
+    "in_reply_to_user_id": "1903126320697184257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019320935946547377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberpsychosisR 作为直男最喜欢bart"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2019320935946547377",
+        "created_at": "2026-02-05T09:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019335366428488147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903126320697184257",
+              "start": 0,
+              "username": "cyberpsychosisR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019335366428488147",
+        "in_reply_to_user_id": "1903126320697184257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019320935946547377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberpsychosisR 作为直男最喜欢bart"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903126320697184257",
+        "conversation_id": "2019320935946547377",
+        "created_at": "2026-02-05T08:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019320935946547377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bodyguardsoty/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/bodyguardsoty/status/2019243978600935761",
+              "start": 9,
+              "url": "https://t.co/O3yoY90pUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019320935946547377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019243978600935761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莎母猪死了ok？ https://t.co/O3yoY90pUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 爱是恒久忍耐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018712524510654737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 181,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:47:36.000Z",
+        "description": "我觉得我已经没有精神方面的问题了，我们还能重新在一起吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cyberpsychosisr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cyberpsychosisr",
+                "start": 0,
+                "url": "https://t.co/zB2Fs82Qzp"
+              }
+            ]
+          }
+        },
+        "id": "1903126320697184257",
+        "name": "Outside me, inside me",
+        "pinned_tweet_id": "2015290172657848358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019274212184322049/sm7LQG0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 115,
+          "like_count": 5111,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/zB2Fs82Qzp",
+        "username": "cyberpsychosisR",
+        "verified": false
+      }
+    ]
+  }
+}

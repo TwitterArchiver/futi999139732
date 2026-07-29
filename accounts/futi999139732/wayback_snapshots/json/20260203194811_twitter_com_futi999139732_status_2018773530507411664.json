@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018386891935240261",
+    "created_at": "2026-02-03T19:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T20:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018773530507411664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1957509667787325440",
+          "start": 0,
+          "username": "Y65969Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018773530507411664",
+    "in_reply_to_user_id": "1957509667787325440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018386891935240261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y65969Y 哎呀呀，谁家女主卖萌呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1691,
+        "media_key": "3_2018386884825899009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALALYla4AEff3B.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018386891935240261",
+        "created_at": "2026-02-03T19:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018773530507411664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957509667787325440",
+              "start": 0,
+              "username": "Y65969Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018773530507411664",
+        "in_reply_to_user_id": "1957509667787325440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018386891935240261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y65969Y 哎呀呀，谁家女主卖萌呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018386884825899009"
+          ]
+        },
+        "author_id": "1957509667787325440",
+        "conversation_id": "2018386891935240261",
+        "created_at": "2026-02-02T18:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018386891935240261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqjAITryz0",
+              "end": 35,
+              "expanded_url": "https://x.com/Y65969Y/status/2018386891935240261/photo/1",
+              "media_key": "3_2018386884825899009",
+              "start": 12,
+              "url": "https://t.co/HqjAITryz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018386891935240261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒图使用2778小时。 https://t.co/HqjAITryz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018654661323186261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 113,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "08/女/entp/求互fo/可以叫我下水道/我需要很多钱/温良好相处/穿孔自殘od系度/cptsd/bpd/食物供应@futi78999/@XXXshenQ1ng重度依赖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "futi78999"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "XXXshenQ1ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y69659y",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y69659y",
+                "start": 0,
+                "url": "https://t.co/JcxwpFXQu6"
+              }
+            ]
+          }
+        },
+        "id": "1957509667787325440",
+        "location": "Припять",
+        "name": "下水道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009619632110620672/HZl4bL2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 446,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/JcxwpFXQu6",
+        "username": "Y65969Y",
+        "verified": false
+      }
+    ]
+  }
+}

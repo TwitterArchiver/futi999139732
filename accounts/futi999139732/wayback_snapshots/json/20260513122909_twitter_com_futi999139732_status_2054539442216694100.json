@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2054139177810239979",
+    "created_at": "2026-05-13T12:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054539442216694100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054539442216694100",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054139177810239979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 精二没法出哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2054139177810239979",
+        "created_at": "2026-05-13T12:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054539442216694100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054539442216694100",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054139177810239979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 精二没法出哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2054139177810239979",
+        "created_at": "2026-05-12T09:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054139177810239979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054139177810239979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4324,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有阿普/sns/pr/ym。能出吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 41,
+                "start": 26,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbqDg"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 960,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/e8vUFYbqDg",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病。互fo私信 接塔罗/雷诺曼占卜\n我闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleR9lr"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "骚扰我先打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2050247792346411493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 473,
+          "like_count": 1466,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/tYaSleR9lr",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

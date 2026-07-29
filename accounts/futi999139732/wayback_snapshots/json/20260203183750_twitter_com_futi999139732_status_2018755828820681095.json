@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018654661323186261",
+    "created_at": "2026-02-03T18:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018755828820681095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587848154921111552",
+          "start": 0,
+          "username": "haiA_0001"
+        },
+        {
+          "end": 21,
+          "id": "2007068022750814208",
+          "start": 11,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018755828820681095",
+    "in_reply_to_user_id": "1587848154921111552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018740937279807768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiA_0001 @futi78999 举办"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [futi78999].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "futi78999",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "futi78999"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018654661323186261",
+        "created_at": "2026-02-03T18:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018755828820681095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587848154921111552",
+              "start": 0,
+              "username": "haiA_0001"
+            },
+            {
+              "end": 21,
+              "id": "2007068022750814208",
+              "start": 11,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018755828820681095",
+        "in_reply_to_user_id": "1587848154921111552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018740937279807768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiA_0001 @futi78999 举办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587848154921111552",
+        "conversation_id": "2018654661323186261",
+        "created_at": "2026-02-03T17:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018740937279807768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            },
+            {
+              "end": 25,
+              "id": "2007068022750814208",
+              "start": 15,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018740937279807768",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018654661323186261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 @futi78999 无奈了，这什么原因啊，互关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018654661323186261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 106,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T16:45:41.000Z",
+        "description": "洼地毒瘴受害者｜自闭的人矿耗材｜一颗不怎么安份的螺丝钉｜因为痛苦而产生疑惑｜因为不解而寻找答案｜向往自由",
+        "id": "1587848154921111552",
+        "name": "愣神的我",
+        "pinned_tweet_id": "2013881780982493379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004467005324423168/EferUXDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 1065,
+          "like_count": 5840,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 3597
+        },
+        "username": "haiA_0001",
+        "verified": false
+      }
+    ]
+  }
+}

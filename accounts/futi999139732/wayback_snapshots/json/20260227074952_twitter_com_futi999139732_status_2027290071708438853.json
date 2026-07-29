@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2027289585823482051",
+    "created_at": "2026-02-27T07:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027290071708438853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944718307808206848",
+          "start": 0,
+          "username": "YukinoTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027290071708438853",
+    "in_reply_to_user_id": "1944718307808206848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027289585823482051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinoTxT 想我想哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027289567192367104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJhHs1bQAAxWVV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027289567188205568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJhHs0bwAA5uLW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2027289585823482051",
+        "created_at": "2026-02-27T07:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027290071708438853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944718307808206848",
+              "start": 0,
+              "username": "YukinoTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027290071708438853",
+        "in_reply_to_user_id": "1944718307808206848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289585823482051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinoTxT 想我想哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027289567192367104",
+            "3_2027289567188205568"
+          ]
+        },
+        "author_id": "1944718307808206848",
+        "conversation_id": "2027289585823482051",
+        "created_at": "2026-02-27T07:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027289585823482051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQr5fjFc2b",
+              "end": 32,
+              "expanded_url": "https://x.com/YukinoTxT/status/2027289585823482051/photo/1",
+              "media_key": "3_2027289567192367104",
+              "start": 9,
+              "url": "https://t.co/cQr5fjFc2b"
+            },
+            {
+              "display_url": "pic.x.com/cQr5fjFc2b",
+              "end": 32,
+              "expanded_url": "https://x.com/YukinoTxT/status/2027289585823482051/photo/1",
+              "media_key": "3_2027289567188205568",
+              "start": 9,
+              "url": "https://t.co/cQr5fjFc2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027289585823482051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的眼睛咋变异了 https://t.co/cQr5fjFc2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在 接语音聊天70/h",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026020862550491136/tLHGtnoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 454,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T11:19:20.000Z",
+        "description": "*^^* 我是小寻/Yukino ❕自残od自毁精神病❕密友 @futi999139732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "futi999139732"
+              }
+            ]
+          }
+        },
+        "id": "1944718307808206848",
+        "name": "好想吃🫐巴菲",
+        "pinned_tweet_id": "1999183040820736078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024806140111196160/XbqSrOmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 81,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 480
+        },
+        "username": "YukinoTxT",
+        "verified": false
+      }
+    ]
+  }
+}

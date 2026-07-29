@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2019067254617362906",
+    "created_at": "2026-02-04T18:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019120518952284192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "855994622807482368",
+          "start": 0,
+          "username": "KannaKaumy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019120518952284192",
+    "in_reply_to_user_id": "855994622807482368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019089286776463458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KannaKaumy 我才不老"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2019067254617362906",
+        "created_at": "2026-02-04T18:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019120518952284192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "855994622807482368",
+              "start": 0,
+              "username": "KannaKaumy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019120518952284192",
+        "in_reply_to_user_id": "855994622807482368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019089286776463458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KannaKaumy 我才不老"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855994622807482368",
+        "conversation_id": "2019067254617362906",
+        "created_at": "2026-02-04T16:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019089286776463458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019089286776463458",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019067254617362906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 牢扶😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 爱是恒久忍耐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018654661323186261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 160,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-23T03:59:56.000Z",
+        "description": "ずっとodしてずっと楽しい～od仙人、日本語が苦手、フィットネス愛好家、ヨーグルト愛好家、猫や可愛いものが大好き～",
+        "id": "855994622807482368",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "Jae",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004851438326087683/zWF_V7N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 112,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 438
+        },
+        "username": "KannaKaumy",
+        "verified": false
+      }
+    ]
+  }
+}

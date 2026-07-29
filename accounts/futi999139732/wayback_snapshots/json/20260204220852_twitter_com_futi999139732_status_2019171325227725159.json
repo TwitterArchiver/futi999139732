@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2019171325227725159",
+    "created_at": "2026-02-04T22:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T23:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019171325227725159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ovo730/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ovo730/status/2018922986624160019",
+          "start": 3,
+          "url": "https://t.co/1RBeAvCa7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019171325227725159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018922986624160019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "醋汁 https://t.co/1RBeAvCa7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018922933083877376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASntf9asAAWOs0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2019171325227725159",
+        "created_at": "2026-02-04T22:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019171325227725159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ovo730/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ovo730/status/2018922986624160019",
+              "start": 3,
+              "url": "https://t.co/1RBeAvCa7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019171325227725159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018922986624160019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "醋汁 https://t.co/1RBeAvCa7d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018922933083877376"
+          ]
+        },
+        "author_id": "1686266855525408769",
+        "conversation_id": "2018922986624160019",
+        "created_at": "2026-02-04T05:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018922986624160019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2018652390891880448",
+              "start": 8,
+              "username": "futi999139732"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4SGlJ4fhZ",
+              "end": 46,
+              "expanded_url": "https://x.com/ovo730/status/2018922986624160019/photo/1",
+              "media_key": "3_2018922933083877376",
+              "start": 23,
+              "url": "https://t.co/I4SGlJ4fhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018922986624160019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我兄弟就这样宠我@futi999139732 https://t.co/I4SGlJ4fhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 爱是恒久忍耐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018712524510654737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 162,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T06:45:34.000Z",
+        "description": "",
+        "id": "1686266855525408769",
+        "name": "苦露西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014218902629437440/gy8NviWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 16,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 35
+        },
+        "username": "ovo730",
+        "verified": false
+      }
+    ]
+  }
+}

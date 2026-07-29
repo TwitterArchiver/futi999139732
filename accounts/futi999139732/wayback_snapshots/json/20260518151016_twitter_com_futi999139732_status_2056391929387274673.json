@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2056057886506140055",
+    "created_at": "2026-05-18T15:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056391929387274673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056391929387274673",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056057886506140055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 adhd我也有很多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056057873545764864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiVvhZXIAAoqCV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056057873667358720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiVvh2WgAAqn3c.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2056057886506140055",
+        "created_at": "2026-05-18T15:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056391929387274673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056391929387274673",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056057886506140055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 adhd我也有很多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056057873545764864",
+            "3_2056057873667358720"
+          ]
+        },
+        "author_id": "2053116713692966913",
+        "conversation_id": "2056057886506140055",
+        "created_at": "2026-05-17T17:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056057886506140055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXsu0y4e7G",
+              "end": 115,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056057886506140055/photo/1",
+              "media_key": "3_2056057873545764864",
+              "start": 92,
+              "url": "https://t.co/dXsu0y4e7G"
+            },
+            {
+              "display_url": "pic.x.com/dXsu0y4e7G",
+              "end": 115,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056057886506140055/photo/1",
+              "media_key": "3_2056057873667358720",
+              "start": 92,
+              "url": "https://t.co/dXsu0y4e7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056057886506140055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 762,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1右美沙芬、氯胺酮、安非他命、曲马多、阿普唑仑、安非他酮\np2我记得无极老师有促智药你可以去问问。你也可以再带上病例去三甲医院看看，可以问一下能不能开托莫西汀/盐酸胍法辛缓释片啥的 https://t.co/dXsu0y4e7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 宝贝🩵@YukinoTxT\n弟弟： @jiuyouforwhite（药物问题找他）\n热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 997,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 349,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018722510683168916",
+    "created_at": "2026-02-03T16:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018722510683168916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/futi999139732/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/futi999139732/status/2018654661323186261",
+          "start": 56,
+          "url": "https://t.co/i5BFLcpfRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018722510683168916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018654661323186261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢每一个转帖的宝宝\n其实号无了不伤心是假\n但有了一次经历后看到这些只会觉得好笑又无力\n扶梯还是扶梯\n永恒不变 https://t.co/i5BFLcpfRI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018722510683168916",
+        "created_at": "2026-02-03T16:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018722510683168916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/futi999139732/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/futi999139732/status/2018654661323186261",
+              "start": 56,
+              "url": "https://t.co/i5BFLcpfRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018722510683168916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018654661323186261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢每一个转帖的宝宝\n其实号无了不伤心是假\n但有了一次经历后看到这些只会觉得好笑又无力\n扶梯还是扶梯\n永恒不变 https://t.co/i5BFLcpfRI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018654661323186261",
+        "created_at": "2026-02-03T11:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018654661323186261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2007068022750814208",
+              "start": 14,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018654661323186261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4894,
+          "like_count": 36,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯 还记得我吗\n上一世@futi78999惨遭举办冻结\n这一世我将再次启程！\n寻回以前的好友中\n爱我的请帮我转帖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 86,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

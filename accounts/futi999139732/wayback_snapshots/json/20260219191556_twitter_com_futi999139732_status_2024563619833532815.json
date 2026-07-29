@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2024559931157073944",
+    "created_at": "2026-02-19T19:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T20:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024563619833532815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488754158647738369",
+          "start": 0,
+          "username": "mingquan0326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024563619833532815",
+    "in_reply_to_user_id": "1488754158647738369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024559931157073944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mingquan0326 这个你吃一颗和十颗没区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2024559931157073944",
+        "created_at": "2026-02-19T19:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024563619833532815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488754158647738369",
+              "start": 0,
+              "username": "mingquan0326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024563619833532815",
+        "in_reply_to_user_id": "1488754158647738369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024559931157073944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mingquan0326 这个你吃一颗和十颗没区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488754158647738369",
+        "conversation_id": "2024559931157073944",
+        "created_at": "2026-02-19T19:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024559931157073944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024559931157073944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "7颗佐匹克隆一点感觉没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 350,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 83
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "-清水琳💧有男朋友\n💊药物依赖/💫雙向情感障礙/🌈雙性戀/💟日乙/📚視覺小說遊戲愛好者\n推り三角初華💛\n看成分互fo⦁֊⦁꧞",
+        "id": "1488754158647738369",
+        "location": "日本",
+        "name": "OvOkiiLyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893943240908259328/H5-qlC9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 149
+        },
+        "username": "mingquan0326",
+        "verified": false
+      }
+    ]
+  }
+}

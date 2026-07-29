@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080307780318363648"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2080307810492100819",
+    "created_at": "2026-07-23T15:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080307810492100819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/49RHcqAKGR",
+          "end": 28,
+          "expanded_url": "https://x.com/futi999139732/status/2080307810492100819/video/1",
+          "media_key": "13_2080307780318363648",
+          "start": 5,
+          "url": "https://t.co/49RHcqAKGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080307810492100819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂逼雅间 https://t.co/49RHcqAKGR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5416,
+        "height": 720,
+        "media_key": "13_2080307780318363648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080307780318363648/img/2ZxtDBqNEtLdX_kK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080307780318363648/vid/avc1/480x270/TcV0vCvz5HSzKNJi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080307780318363648/vid/avc1/640x360/J5-yXWqxDRlC9Kfe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080307780318363648/vid/avc1/1280x720/D0qyzqKOkJqrP-f3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080307780318363648/pl/Ln0LuHcM5EAu9vnT.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080307780318363648"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2080307810492100819",
+        "created_at": "2026-07-23T15:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080307810492100819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/49RHcqAKGR",
+              "end": 28,
+              "expanded_url": "https://x.com/futi999139732/status/2080307810492100819/video/1",
+              "media_key": "13_2080307780318363648",
+              "start": 5,
+              "url": "https://t.co/49RHcqAKGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080307810492100819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂逼雅间 https://t.co/49RHcqAKGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1070,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

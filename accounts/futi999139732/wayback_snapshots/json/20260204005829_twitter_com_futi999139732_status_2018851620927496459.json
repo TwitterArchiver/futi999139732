@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018851372712767709",
+    "created_at": "2026-02-04T00:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018851620927496459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "cxxf1zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018851620927496459",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018851372712767709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxxf1zh 哎呀我去不敢当"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018851372712767709",
+        "created_at": "2026-02-04T00:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018851620927496459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "cxxf1zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018851620927496459",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018851372712767709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxxf1zh 哎呀我去不敢当"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2018851372712767709",
+        "created_at": "2026-02-04T00:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018851372712767709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/futi999139732/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/futi999139732/status/2018654661323186261",
+              "start": 14,
+              "url": "https://t.co/mPVahF2pGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018851372712767709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018654661323186261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本世纪最靠谱RC药商再此！ https://t.co/mPVahF2pGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 爱是恒久忍耐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018654661323186261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 132,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "MBTI:INFP-T/双子座♊️06年\n性别为男\n重度抑郁焦虑失眠/OD💊/自伤(？什么程度才算 打个问号❓\n❌❌拒绝政治讨论，不感兴趣\n⭕️⭕️会打碟/哲思🤔阅读📖动漫/\n当朋友圈发，祝大家开心呢❤️❤️",
+        "id": "1782303137136852992",
+        "location": "Shibuya, Tokyo",
+        "name": "一澤子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009290585430274048/oAhjPj-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 51,
+          "like_count": 415,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 166
+        },
+        "username": "cxxf1zh",
+        "verified": false
+      }
+    ]
+  }
+}

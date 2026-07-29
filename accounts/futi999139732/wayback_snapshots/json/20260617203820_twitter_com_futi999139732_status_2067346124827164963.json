@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066823070325882880"
+      ],
+      "media_source_tweet_id": [
+        "2066823076604686504"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2067346124827164963",
+    "created_at": "2026-06-17T20:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067346124827164963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066821700847902720",
+          "start": 3,
+          "username": "Mercydlt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZEGM5mB3i",
+          "end": 75,
+          "expanded_url": "https://x.com/Mercydlt/status/2066823076604686504/photo/1",
+          "media_key": "3_2066823070325882880",
+          "start": 52,
+          "url": "https://t.co/YZEGM5mB3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067346124827164963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066823076604686504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercydlt: 我是Mercy，下面这个是我。由于被封怕了所以暂时不敢用相同的头像了。。。 https://t.co/YZEGM5mB3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2066823070325882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7UochbQAAzEiU.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066823070325882880"
+          ],
+          "media_source_tweet_id": [
+            "2066823076604686504"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2067346124827164963",
+        "created_at": "2026-06-17T20:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067346124827164963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066821700847902720",
+              "start": 3,
+              "username": "Mercydlt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZEGM5mB3i",
+              "end": 75,
+              "expanded_url": "https://x.com/Mercydlt/status/2066823076604686504/photo/1",
+              "media_key": "3_2066823070325882880",
+              "start": 52,
+              "url": "https://t.co/YZEGM5mB3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067346124827164963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066823076604686504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercydlt: 我是Mercy，下面这个是我。由于被封怕了所以暂时不敢用相同的头像了。。。 https://t.co/YZEGM5mB3i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066823070325882880"
+          ]
+        },
+        "author_id": "2066821700847902720",
+        "conversation_id": "2066823076604686504",
+        "created_at": "2026-06-16T09:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066823076604686504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZEGM5mB3i",
+              "end": 61,
+              "expanded_url": "https://x.com/Mercydlt/status/2066823076604686504/photo/1",
+              "media_key": "3_2066823070325882880",
+              "start": 38,
+              "url": "https://t.co/YZEGM5mB3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066823076604686504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2386,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我是Mercy，下面这个是我。由于被封怕了所以暂时不敢用相同的头像了。。。 https://t.co/YZEGM5mB3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 宝贝🩵@YukinoTxT\n热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 1028,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T09:55:11.000Z",
+        "description": "我是Mercy，互关寻回",
+        "id": "2066821700847902720",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066822182257537025/9KIQBK5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 73,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Mercydlt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2076291228896051274",
+    "created_at": "2026-07-12T13:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076291228896051274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vicklangley/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/vicklangley/status/2075675755225186544",
+          "start": 3,
+          "url": "https://t.co/XgqBmjioB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076291228896051274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075675755225186544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/XgqBmjioB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_2075675568654139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5H7qqWQAAtOHb.jpg",
+        "width": 1019
+      },
+      {
+        "height": 1811,
+        "media_key": "3_2075675587893452800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5H8yVW4AAe087.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2076291228896051274",
+        "created_at": "2026-07-12T13:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076291228896051274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vicklangley/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/vicklangley/status/2075675755225186544",
+              "start": 3,
+              "url": "https://t.co/XgqBmjioB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076291228896051274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075675755225186544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/XgqBmjioB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075675568654139392",
+            "3_2075675587893452800"
+          ]
+        },
+        "author_id": "286697319",
+        "conversation_id": "2075675755225186544",
+        "created_at": "2026-07-10T20:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075675755225186544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvQON5j2QG",
+              "end": 66,
+              "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+              "media_key": "3_2075675568654139392",
+              "start": 43,
+              "url": "https://t.co/XvQON5j2QG"
+            },
+            {
+              "display_url": "pic.x.com/XvQON5j2QG",
+              "end": 66,
+              "expanded_url": "https://x.com/vicklangley/status/2075675755225186544/photo/1",
+              "media_key": "3_2075675587893452800",
+              "start": 43,
+              "url": "https://t.co/XvQON5j2QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075675755225186544",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 31327,
+          "like_count": 2091,
+          "quote_count": 17,
+          "reply_count": 23,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "minha Lain chegou e ela é mt lindinhaaaaaa https://t.co/XvQON5j2QG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 1069,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-23T14:24:57.000Z",
+        "description": "Colecionando caracacos \n\n✦ Representante oficial Bandai Brasil\n✦ Embaixadora @nin_nin_game",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "nin_nin_game"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/vicklangley",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/vicklangley",
+                "start": 0,
+                "url": "https://t.co/p2RWYphezv"
+              }
+            ]
+          }
+        },
+        "id": "286697319",
+        "location": "Kazimierz, Ursus",
+        "name": "victorique",
+        "pinned_tweet_id": "2024664281438892064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069049123005706240/Mss206Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5666,
+          "following_count": 1075,
+          "like_count": 159947,
+          "listed_count": 14,
+          "media_count": 3271,
+          "tweet_count": 41641
+        },
+        "url": "https://t.co/p2RWYphezv",
+        "username": "vicklangley",
+        "verified": false
+      }
+    ]
+  }
+}

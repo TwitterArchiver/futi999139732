@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2032749885448126657",
+    "created_at": "2026-03-14T11:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032775580345839867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868562193484251136",
+          "start": 0,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032775580345839867",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032749885448126657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengChamSayBye 可以，但小心呼吸抑制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2032749885448126657",
+        "created_at": "2026-03-14T11:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032775580345839867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032775580345839867",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032749885448126657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 可以，但小心呼吸抑制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2032749885448126657",
+        "created_at": "2026-03-14T09:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032749885448126657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032749885448126657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林能和阿普唑仑联用吗嘻嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2028136265158427111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 643,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |#霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #NIKI粉 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 74,
+                "start": 71,
+                "tag": "霉粉"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "NIKI粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 195,
+          "like_count": 4959,
+          "listed_count": 0,
+          "media_count": 721,
+          "tweet_count": 3837
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

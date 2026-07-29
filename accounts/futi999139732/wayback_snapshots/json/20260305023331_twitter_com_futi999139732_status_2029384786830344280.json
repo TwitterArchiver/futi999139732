@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2029359382136262780",
+    "created_at": "2026-03-05T02:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T03:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029384786830344280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026095447190958080",
+          "start": 0,
+          "username": "Kusutobi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029384786830344280",
+    "in_reply_to_user_id": "2026095447190958080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029359382136262780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi5 我也想玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029359369511464960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCm7mDVXcAAgXJB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029359369654284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCm7mD3asAAI-XG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2029359382136262780",
+        "created_at": "2026-03-05T02:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029384786830344280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026095447190958080",
+              "start": 0,
+              "username": "Kusutobi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029384786830344280",
+        "in_reply_to_user_id": "2026095447190958080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029359382136262780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi5 我也想玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029359369511464960",
+            "3_2029359369654284288"
+          ]
+        },
+        "author_id": "2026095447190958080",
+        "conversation_id": "2029359382136262780",
+        "created_at": "2026-03-05T00:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T01:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029359382136262780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DYbnaPxPZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Kusutobi5/status/2029359382136262780/photo/1",
+              "media_key": "3_2029359369511464960",
+              "start": 14,
+              "url": "https://t.co/6DYbnaPxPZ"
+            },
+            {
+              "display_url": "pic.x.com/6DYbnaPxPZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Kusutobi5/status/2029359382136262780/photo/1",
+              "media_key": "3_2029359369654284288",
+              "start": 14,
+              "url": "https://t.co/6DYbnaPxPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029359382136262780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简陋且低纯度的roll一根 https://t.co/6DYbnaPxPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在 接语音聊天70/h",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2028136265158427111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026020862550491136/tLHGtnoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 551,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T00:43:02.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/被封四次了详细产品咨询清私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/kg5CHNz7aw"
+              }
+            ]
+          }
+        },
+        "id": "2026095447190958080",
+        "name": "楠鸢Kusutobi",
+        "pinned_tweet_id": "2029256322105979390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026095573279870976/AON9yox0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 39,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/kg5CHNz7aw",
+        "username": "Kusutobi5",
+        "verified": false
+      }
+    ]
+  }
+}

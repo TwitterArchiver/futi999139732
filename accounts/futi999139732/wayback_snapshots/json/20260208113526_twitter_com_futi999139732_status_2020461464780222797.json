@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2020461464780222797",
+    "created_at": "2026-02-08T11:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T12:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020461464780222797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagamine_8964/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/kagamine_8964/status/2019784332588806225",
+          "start": 37,
+          "url": "https://t.co/RlrzYEwOnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020461464780222797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019784332588806225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忏悔不是对已发生的事情念念不忘进行追忆\n而是对未来负责，我不希望你做傻事 https://t.co/RlrzYEwOnS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2020461464780222797",
+        "created_at": "2026-02-08T11:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020461464780222797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagamine_8964/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/kagamine_8964/status/2019784332588806225",
+              "start": 37,
+              "url": "https://t.co/RlrzYEwOnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020461464780222797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019784332588806225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忏悔不是对已发生的事情念念不忘进行追忆\n而是对未来负责，我不希望你做傻事 https://t.co/RlrzYEwOnS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011375652579262464",
+        "conversation_id": "2019784332588806225",
+        "created_at": "2026-02-06T14:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019784332588806225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019784332588806225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1611,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "站在妳的房间 \n妳亲吻了我\n看着妳的身体 \n我突然清醒\n我会拥抱一切我得到的东西\n像是活在梦里\n我不愿醒来\n抱着妳的身体\n听到妳的心跳\n我感觉似乎我也快要明白\n拿起铅笔写在纸上\n我绝对不会让妳孤独一人死去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 寻回前世好友中 科研人员 热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2018712524510654737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 221,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:51:50.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼 \n/FOW参与者 /接受药物投稿及测试/重精神病 PTSD 因創傷而躲藏  /#drugtwt /TG同X \n/老公:@Edward_8964\n/我絕對不會讓你孤獨一個人死去\n/六次帳號轉生 /非商業使用 /匿名提问https://t.co/p1X2dlE3nu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 154,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 131,
+                "url": "https://t.co/p1X2dlE3nu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/ieTjg4n36R"
+              }
+            ]
+          }
+        },
+        "id": "2011375652579262464",
+        "name": "Kagamine鏡音",
+        "pinned_tweet_id": "2018863928059768901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011377300881997825/i7Z-nguz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 380,
+          "like_count": 2302,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/ieTjg4n36R",
+        "username": "Kagamine_8964",
+        "verified": true
+      }
+    ]
+  }
+}

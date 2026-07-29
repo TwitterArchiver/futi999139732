@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018653102967234561"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2018653175369314695",
+    "created_at": "2026-02-03T11:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018653175369314695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vN6buC8RS1",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2018653175369314695/video/1",
+          "media_key": "13_2018653102967234561",
+          "start": 8,
+          "url": "https://t.co/vN6buC8RS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018653175369314695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "扶梯三世 复活 https://t.co/vN6buC8RS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 1280,
+        "media_key": "13_2018653102967234561",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018653102967234561/img/0CmbR870cPw7rkM5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018653102967234561/vid/avc1/320x568/aC9E09drWLECQQax.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018653102967234561/vid/avc1/480x852/ddj0RYhpYSM7mRkt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018653102967234561/vid/avc1/720x1280/oSTMxQm34m1shoWl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018653102967234561/pl/L0DZ-mzyo4QMA6nH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018653102967234561"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2018653175369314695",
+        "created_at": "2026-02-03T11:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018653175369314695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vN6buC8RS1",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2018653175369314695/video/1",
+              "media_key": "13_2018653102967234561",
+              "start": 8,
+              "url": "https://t.co/vN6buC8RS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018653175369314695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扶梯三世 复活 https://t.co/vN6buC8RS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "",
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

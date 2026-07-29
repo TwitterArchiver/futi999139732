@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040046692414939136",
+        "3_2040046692414988288",
+        "3_2040046692410724352"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040046745087004678",
+    "created_at": "2026-04-03T12:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040046745087004678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UyKAgwboWT",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2040046745087004678/photo/1",
+          "media_key": "3_2040046692414939136",
+          "start": 8,
+          "url": "https://t.co/UyKAgwboWT"
+        },
+        {
+          "display_url": "pic.x.com/UyKAgwboWT",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2040046745087004678/photo/1",
+          "media_key": "3_2040046692414988288",
+          "start": 8,
+          "url": "https://t.co/UyKAgwboWT"
+        },
+        {
+          "display_url": "pic.x.com/UyKAgwboWT",
+          "end": 31,
+          "expanded_url": "https://x.com/futi999139732/status/2040046745087004678/photo/1",
+          "media_key": "3_2040046692410724352",
+          "start": 8,
+          "url": "https://t.co/UyKAgwboWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040046745087004678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当事人已经道歉 https://t.co/UyKAgwboWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040046692414939136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-zqHqaYAA6GKH.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040046692414988288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-zqHqbIAAtYTQ.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2040046692410724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-zqHpaEAAZU37.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040046692414939136",
+            "3_2040046692414988288",
+            "3_2040046692410724352"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040046745087004678",
+        "created_at": "2026-04-03T12:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040046745087004678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UyKAgwboWT",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2040046745087004678/photo/1",
+              "media_key": "3_2040046692414939136",
+              "start": 8,
+              "url": "https://t.co/UyKAgwboWT"
+            },
+            {
+              "display_url": "pic.x.com/UyKAgwboWT",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2040046745087004678/photo/1",
+              "media_key": "3_2040046692414988288",
+              "start": 8,
+              "url": "https://t.co/UyKAgwboWT"
+            },
+            {
+              "display_url": "pic.x.com/UyKAgwboWT",
+              "end": 31,
+              "expanded_url": "https://x.com/futi999139732/status/2040046745087004678/photo/1",
+              "media_key": "3_2040046692410724352",
+              "start": 8,
+              "url": "https://t.co/UyKAgwboWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040046745087004678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当事人已经道歉 https://t.co/UyKAgwboWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 899,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": true
+      }
+    ]
+  }
+}

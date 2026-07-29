@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2031714609619664969",
+    "created_at": "2026-03-11T13:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031722405702652285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708493840477458432",
+          "start": 0,
+          "username": "gCdQqjm35088619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031722405702652285",
+    "in_reply_to_user_id": "1708493840477458432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031722272286036180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gCdQqjm35088619 cas：30123-17-2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2031714609619664969",
+        "created_at": "2026-03-11T13:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031722405702652285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708493840477458432",
+              "start": 0,
+              "username": "gCdQqjm35088619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031722405702652285",
+        "in_reply_to_user_id": "1708493840477458432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031722272286036180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gCdQqjm35088619 cas：30123-17-2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708493840477458432",
+        "conversation_id": "2031714609619664969",
+        "created_at": "2026-03-11T13:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031722272286036180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031722272286036180",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031721022098112750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 在1688上看到了，是那个噻奈普原汀酸粉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2028136265158427111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 602,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004188978749345792/74sAh7CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 106,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 298
+        },
+        "username": "gCdQqjm35088619",
+        "verified": false
+      }
+    ]
+  }
+}
