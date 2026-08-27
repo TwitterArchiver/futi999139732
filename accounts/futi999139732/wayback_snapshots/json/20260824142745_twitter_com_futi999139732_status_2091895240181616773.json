@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2091895240181616773",
+    "created_at": "2026-08-24T14:27:45.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091895240181616773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/futi999139732/…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/futi999139732/status/2091892685552631855",
+          "start": 62,
+          "url": "https://t.co/FUDRAjGOyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091895240181616773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091892685552631855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请大家帮忙转帖，有能找到她的地址的最好\n我不是在开玩笑，她吃完dxm后注射了她说的镇静剂 紧接着便没了动静\n打电话一直没回 https://t.co/FUDRAjGOyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091892673674375168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQflTaqacAAKKIf.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2091895240181616773",
+        "created_at": "2026-08-24T14:27:45.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091895240181616773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/futi999139732/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/futi999139732/status/2091892685552631855",
+              "start": 62,
+              "url": "https://t.co/FUDRAjGOyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091895240181616773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091892685552631855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请大家帮忙转帖，有能找到她的地址的最好\n我不是在开玩笑，她吃完dxm后注射了她说的镇静剂 紧接着便没了动静\n打电话一直没回 https://t.co/FUDRAjGOyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091892673674375168"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2091892685552631855",
+        "created_at": "2026-08-24T14:17:36.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091892685552631855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBjgySERsp",
+              "end": 56,
+              "expanded_url": "https://x.com/futi999139732/status/2091892685552631855/photo/1",
+              "media_key": "3_2091892673674375168",
+              "start": 33,
+              "url": "https://t.co/nBjgySERsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091892685552631855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091892673674375168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚还在和我打电话目前已经失联\n谁能进行紫砂干预救助的立马联系我 https://t.co/nBjgySERsp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "is_identity_verified": false,
+        "location": "零食供应➡️",
+        "most_recent_tweet_id": "2091895240181616773",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018652390891880448/1770283857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1072,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

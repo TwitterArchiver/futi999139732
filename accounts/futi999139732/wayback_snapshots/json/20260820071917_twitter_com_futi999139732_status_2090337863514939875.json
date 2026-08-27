@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090337852160884737"
+      ]
+    },
+    "author_id": "2018652390891880448",
+    "conversation_id": "2090337863514939875",
+    "created_at": "2026-08-20T07:19:17.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090337863514939875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ry7qh5oFKv",
+          "end": 51,
+          "expanded_url": "https://x.com/futi999139732/status/2090337863514939875/photo/1",
+          "media_key": "3_2090337852160884737",
+          "start": 28,
+          "url": "https://t.co/ry7qh5oFKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090337863514939875",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090337852160884737"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "yakino你在做甚\n给你转完520第二天官宣男友\n啧 https://t.co/ry7qh5oFKv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090337852160884737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJfM5KaQAE-wJG.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090337852160884737"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "conversation_id": "2090337863514939875",
+        "created_at": "2026-08-20T07:19:17.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090337863514939875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ry7qh5oFKv",
+              "end": 51,
+              "expanded_url": "https://x.com/futi999139732/status/2090337863514939875/photo/1",
+              "media_key": "3_2090337852160884737",
+              "start": 28,
+              "url": "https://t.co/ry7qh5oFKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090337863514939875",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090337852160884737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yakino你在做甚\n给你转完520第二天官宣男友\n啧 https://t.co/ry7qh5oFKv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "is_identity_verified": false,
+        "location": "零食供应➡️",
+        "most_recent_tweet_id": "2090337863514939875",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018652390891880448/1770283857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 1059,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

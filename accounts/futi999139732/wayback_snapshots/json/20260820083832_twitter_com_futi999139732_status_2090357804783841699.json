@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2090337863514939875",
+    "created_at": "2026-08-20T08:38:32.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090357804783841699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090357804783841699",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090348960418578666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 傻逼一个，心惊胆战的不就是怕鬼敲门吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2090337863514939875",
+        "created_at": "2026-08-20T08:38:32.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090357804783841699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090357804783841699",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090348960418578666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 傻逼一个，心惊胆战的不就是怕鬼敲门吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317689258052710400",
+        "conversation_id": "2090337863514939875",
+        "created_at": "2026-08-20T08:03:23.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090348960418578666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090348960418578666",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090337863514939875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 。。好恶心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "is_identity_verified": false,
+        "location": "零食供应➡️",
+        "most_recent_tweet_id": "2090357804783841699",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018652390891880448/1770283857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 1060,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别烦 都是过检的合法上头策划 \n我的另一个@5koPainful\n交流群：https://t.co/VgEHi6jhgo\n反馈频道：https://t.co/HXYpyZjKv2\n商品发布频道(本频道)：https://t.co/vlJyULWCg4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "5koPainful"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TBySRMOZqn4wM…",
+                "end": 62,
+                "expanded_url": "https://t.me/+TBySRMOZqn4wM2Vk",
+                "start": 39,
+                "url": "https://t.co/VgEHi6jhgo"
+              },
+              {
+                "display_url": "t.me/LemonRCFeedBack",
+                "end": 91,
+                "expanded_url": "https://t.me/LemonRCFeedBack",
+                "start": 68,
+                "url": "https://t.co/HXYpyZjKv2"
+              },
+              {
+                "display_url": "t.me/SparrowLemonade",
+                "end": 127,
+                "expanded_url": "https://t.me/SparrowLemonade",
+                "start": 104,
+                "url": "https://t.co/vlJyULWCg4"
+              }
+            ]
+          }
+        },
+        "id": "1317689258052710400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090349722859196672",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1317689258052710400/1673097042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7079,
+          "following_count": 163,
+          "like_count": 1031,
+          "listed_count": 13,
+          "media_count": 374,
+          "tweet_count": 3412
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

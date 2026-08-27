@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2091529927644602624",
+    "created_at": "2026-08-23T23:59:40.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091676777970385403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733852461390348288",
+          "start": 0,
+          "username": "a4451020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091676777970385403",
+    "in_reply_to_user_id": "1733852461390348288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091529927644602624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a4451020 ➕1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2091529927644602624",
+        "created_at": "2026-08-23T23:59:40.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091676777970385403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852461390348288",
+              "start": 0,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091676777970385403",
+        "in_reply_to_user_id": "1733852461390348288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091529927644602624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a4451020 ➕1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733852461390348288",
+        "conversation_id": "2091529927644602624",
+        "created_at": "2026-08-23T14:16:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091529927644602624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091529927644602624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想去泰国抽大麻啊，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "is_identity_verified": false,
+        "location": "零食供应➡️",
+        "most_recent_tweet_id": "2091676777970385403",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018652390891880448/1770283857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1072,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜#drugtwt 爱好者 流量队爱好者｜木瓜蜜鹰美维美龙美娜美肥美来找我玩呀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 4,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "is_identity_verified": false,
+        "location": "妹子打tag都是引流的",
+        "most_recent_tweet_id": "2091581539301851267",
+        "name": "Sr20det",
+        "pinned_tweet_id": "2027780655090962747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733852461390348288/1763890668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006468103425925120/byLYSITw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 36,
+          "like_count": 42116,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "a4451020",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

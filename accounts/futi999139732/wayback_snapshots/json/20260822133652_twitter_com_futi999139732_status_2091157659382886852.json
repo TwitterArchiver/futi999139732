@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2091017046146556003",
+    "created_at": "2026-08-22T13:36:52.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091157659382886852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733852461390348288",
+          "start": 0,
+          "username": "a4451020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091157659382886852",
+    "in_reply_to_user_id": "1733852461390348288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091017046146556003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a4451020 这时候买电脑的顶富了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2091017046146556003",
+        "created_at": "2026-08-22T13:36:52.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091157659382886852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733852461390348288",
+              "start": 0,
+              "username": "a4451020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091157659382886852",
+        "in_reply_to_user_id": "1733852461390348288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091017046146556003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a4451020 这时候买电脑的顶富了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733852461390348288",
+        "conversation_id": "2091017046146556003",
+        "created_at": "2026-08-22T04:18:07.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091017046146556003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091017046146556003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天赋是假的 努力是假的 缘分是假的 只有我爸给我买的ROG魔霸新锐2026 R9 8940HX RTX5060 16GB 1TB 是真的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "is_identity_verified": false,
+        "location": "零食供应➡️",
+        "most_recent_tweet_id": "2091157659382886852",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018652390891880448/1770283857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 1073,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T14:13:58.000Z",
+        "description": "我是条｜#drugtwt 爱好者 流量队爱好者｜木瓜蜜鹰美维美龙美娜美肥美来找我玩呀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 4,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1733852461390348288",
+        "is_identity_verified": false,
+        "location": "妹子打tag都是引流的",
+        "most_recent_tweet_id": "2091017046146556003",
+        "name": "Sr20det",
+        "pinned_tweet_id": "2027780655090962747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733852461390348288/1763890668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006468103425925120/byLYSITw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 35,
+          "like_count": 42025,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "a4451020",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
