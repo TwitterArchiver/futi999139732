@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2018652390891880448",
+    "conversation_id": "2097103474148385227",
+    "created_at": "2026-09-07T23:23:25.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T00:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097103474148385227"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097103474148385227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对生活厌倦透顶，觉得有时候\n再正常不过的是放纵一下自己。\n \n我整天吸食啜饮，能把所有的\n痛苦都麻木起来的美国毒药\n我，已经是一个天生的醉鬼！\n我玫瑰的神经需要更好的大脑。\n \n我写下这些诗行。但却无从\n感受到我在其中展现的才能！\n事实证明，生活是一座农场，\n能厌倦所有那些敏感的心灵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2097103474148385227",
+        "created_at": "2026-09-07T23:23:25.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097103474148385227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097103474148385227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对生活厌倦透顶，觉得有时候\n再正常不过的是放纵一下自己。\n \n我整天吸食啜饮，能把所有的\n痛苦都麻木起来的美国毒药\n我，已经是一个天生的醉鬼！\n我玫瑰的神经需要更好的大脑。\n \n我写下这些诗行。但却无从\n感受到我在其中展现的才能！\n事实证明，生活是一座农场，\n能厌倦所有那些敏感的心灵。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 业余诗人 \n让我最后一次为你而存在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "is_identity_verified": false,
+        "location": "零食供应➡️",
+        "most_recent_tweet_id": "2097103474148385227",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018652390891880448/1770283857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 1063,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
